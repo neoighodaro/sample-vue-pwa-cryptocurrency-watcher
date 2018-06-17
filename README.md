@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[View tutorial](https://pusher.com/tutorials/cryptocurrency-tracker-vue)
+
 ## Build Setup
 
 ``` bash
